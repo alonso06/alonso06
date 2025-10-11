@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi everyone 👋
+---
 
-<!--
-**alonso06/alonso06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name es Alonso and I' from 🇵🇪. I'm a **systems enginneer**.
 
-Here are some ideas to get you started:
+I usually work on private projects ⚡, but I also share notes about courses and open-source projects in my repositories 🔭.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+---
+
+- ⚙️ Custom web applications
+- 🎇 Web development frontend and backend
+- 🌳Projects with clean architecture
