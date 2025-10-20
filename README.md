@@ -1,4 +1,4 @@
-## Hi everyone 👋
+## Hi everyone!
 ---
 
 My name es Alonso and I' from 🇵🇪. I'm a **systems enginneer**.
