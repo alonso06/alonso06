@@ -7,7 +7,10 @@ I currently work as a frontend developer, so my projects are primarily focused o
 
 Thanks for taking a look at my page.
 
-[linkedin][www.linkedin.com/in/alonso-chiroque-huamanchumo-9a1b0b188] [Tiktok][https://www.tiktok.com/@alonso.dot]
+[Linkedin](www.linkedin.com/in/alonso-chiroque-huamanchumo-9a1b0b188) |
+[Tiktok](https://www.tiktok.com/@alonso.dot)
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjViNjZndG9odHpucm15Y2RvNmgwZGE3dWRjYjVleGdubGN1ejcxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qc5fbrb4qpupRA9r4o/giphy.gif" width="300">
 
 ### What I Do
 ---
